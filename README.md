@@ -8,13 +8,15 @@
 - Jest / React Testing Library
 - SCSS Modules
 - Axios / React Query
+- Feature-Sliced Design (FSD)
 
 ## My backend stack of technologies
 - Nest.js / Express.js
 - Jest
 - JWT
-- TypeORM
+- TypeORM / Mongoose
 - PostgreSQL / MongoDB
 - Swagger
+- Hexagonal architecture
 
 
