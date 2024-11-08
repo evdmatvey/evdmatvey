@@ -4,17 +4,17 @@
 
 ## My frontend stack of technologies
 - React / Next.js
-- Redux / Redux toolkit
-- Jest / React Testing Library
-- SCSS Modules
+- Redux / Redux toolkit / Zustand
+- Jest / Vitest / React Testing Library 
+- (S)CSS Modules
 - Axios / React Query
 - Feature-Sliced Design (FSD)
 
 ## My backend stack of technologies
 - Nest.js / Express.js
-- Jest
+- Jest / Vitest
 - JWT
-- TypeORM / Mongoose
+- TypeORM / Mongoose / Prisma
 - PostgreSQL / MongoDB
 - Swagger
 - Hexagonal architecture
